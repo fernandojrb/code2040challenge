@@ -1,0 +1,8 @@
+d:\documents\visual studio 2013\Projects\Code2040Challenge\Code2040Challenge\bin\Debug\Code2040Challenge.exe.config
+d:\documents\visual studio 2013\Projects\Code2040Challenge\Code2040Challenge\bin\Debug\Code2040Challenge.exe
+d:\documents\visual studio 2013\Projects\Code2040Challenge\Code2040Challenge\bin\Debug\Code2040Challenge.pdb
+d:\documents\visual studio 2013\Projects\Code2040Challenge\Code2040Challenge\bin\Debug\Newtonsoft.Json.dll
+d:\documents\visual studio 2013\Projects\Code2040Challenge\Code2040Challenge\bin\Debug\Newtonsoft.Json.xml
+d:\documents\visual studio 2013\Projects\Code2040Challenge\Code2040Challenge\obj\Debug\Code2040Challenge.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Code2040Challenge\Code2040Challenge\obj\Debug\Code2040Challenge.exe
+d:\documents\visual studio 2013\Projects\Code2040Challenge\Code2040Challenge\obj\Debug\Code2040Challenge.pdb
